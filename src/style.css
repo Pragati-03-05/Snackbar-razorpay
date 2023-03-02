@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.bar {
+  background-color: grey;
+  color: white;
+  border-radius: 6px;
+  padding: 8px;
+  text-align: left;
+  text-transform: capitalize;
+  margin: 5px;
+  /* position: fixed;
+  left: 50%;
+  transform: translateX(-50%); */
+}
+.success {
+  background-color: green;
+}
+.warn {
+  background-color: yellow;
+  color: black;
+}
+.error {
+  background-color: red;
+}
